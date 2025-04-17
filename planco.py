@@ -4,7 +4,7 @@ import os
 
 # --- Configuration ---
 # Chemin relatif du fichier CSV (à modifier par le développeur)
-CSV_FILE_PATH = "plan_co.csv"
+CSV_FILE_PATH = "planco.csv"
 CSV_SEPARATOR = ";" # Définition du séparateur
 # --- Fin Configuration ---
 
